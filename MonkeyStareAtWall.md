@@ -7,7 +7,7 @@ It feels strange to me sometimes when I'm laying in bed staring at my phone, lap
 
 Animals certainly did not evolve to be nearly immobile for the greater part of the day, with all their attention focused on, basically, a wall at a fixed distance.
 
-If there really are aliens that visited Earth, maybe they would be freaked out since so much of our population is seemingly hypnotized by assorted flat surfaces.
+If aliens ever visit Earth, maybe they would be freaked out since so much of our population is seemingly hypnotized by assorted flat surfaces.
 
 I don't think this really has to do with or is a big factor in [[OutsourcingIntelligence]], although the way the Internet has evolved and is utilized in our assorted flat surfaces certainly does seem to play a role.
 

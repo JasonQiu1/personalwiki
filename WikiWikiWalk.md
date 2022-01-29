@@ -31,4 +31,4 @@ This wiki is a walk, and the first step is here.
 
 ---
 
-Take a walk: [[ShowThenTell]], [[MonkeyStareAtWall]]
+Take a walk: [[ShowThenTell]], [[MonkeyStareAtWall]], [[Cookbook]]
