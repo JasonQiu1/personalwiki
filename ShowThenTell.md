@@ -1,6 +1,6 @@
 # [[ShowThenTell|Show, Then Tell]]
->*Jae screamed at Hale, "I wish I was never born so I wouldn't have even a single iota of a chance to ever meet you!"
->Jae hated Hale.*
+> *Jae screamed at Hale, "I wish I was never born so I wouldn't have even a single iota of a chance to ever meet you!"
+> Jae hated Hale.*
 ---
 
 A common pattern I absolutely detest when reading books (particularly [[Webnovels]]).

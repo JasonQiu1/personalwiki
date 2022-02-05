@@ -1,7 +1,7 @@
 # [[WikiWikiWalk]]
->*Jae: "I'm walkin' 'ere!" 
->Hale: "What?" 
->Jae: "I'm walkin' an' talkin' 'ere, that's what!"*
+> *Jae: "I'm walkin' 'ere!" 
+> Hale: "What?" 
+> Jae: "I'm walkin' an' talkin' 'ere, that's what!"*
 ---
 
 The name and essence of what this personal wiki is all about.

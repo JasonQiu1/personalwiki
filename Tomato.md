@@ -1,7 +1,7 @@
 # [[Tomato]]
->*Jae: Hale, you gotta try this.
->Hale takes a bite.
->Hale: Holy shit.*
+> *Jae: Hale, you gotta try this.
+> Hale takes a bite.
+> Hale: Holy shit.*
 ---
 The number one culinary vegetable under the heavens.
 

@@ -1,7 +1,7 @@
 # [[TomatoEggs|Tomato Eggs]]
->*Jae: Hale, breakfast's ready.
->Jae: Hale, lunch's ready.
->Jae: Hale, dinner's ready.*
+> *Jae: Hale, breakfast's ready.
+> Jae: Hale, lunch's ready.
+> Jae: Hale, dinner's ready.*
 ---
 A classic home-style stirfry dish you can eat any time of day .
 

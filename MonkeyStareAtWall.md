@@ -1,5 +1,5 @@
 # [[MonkeyStareAtWall|Monkey Stare At Wall]]
->*Jae (monkey) say, "Hale, you, wake, sleep, sit, look, plank, why?"*
+> *Jae (monkey) say, "Hale, you, wake, sleep, sit, look, plank, why?"*
 ---
 A modern phenomenon of paper and screens.
 
