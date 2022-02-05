@@ -3,6 +3,7 @@
 > Hale: "What?" 
 > Jae: "I'm walkin' an' talkin' 'ere, that's what!"*
 ---
+*22/01/27 17:47 UTC-6*
 
 The name and essence of what this personal wiki is all about.
 
@@ -31,4 +32,4 @@ This wiki is a walk, and the first step is here.
 
 ---
 
-Take a walk: [[ShowThenTell]], [[MonkeyStareAtWall]], [[Cookbook]]
+Take a walk: [[ShowThenTell]], [[MonkeyStareAtWall]], [[Cookbook]], [[ShovelingSnow]]

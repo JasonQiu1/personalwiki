@@ -3,6 +3,8 @@
 > Jae: Hale, lunch's ready.
 > Jae: Hale, dinner's ready.*
 ---
+*22/01/29 13:35 UTC-6*
+
 A classic home-style stirfry dish you can eat any time of day .
 
 In my opinion, the focus of the dish is more on the delectable [[Tomato|tomato]] sauce, and the light, fluffy eggs act as substance to make the sauce shine.

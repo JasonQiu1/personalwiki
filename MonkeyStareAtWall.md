@@ -1,6 +1,8 @@
 # [[MonkeyStareAtWall|Monkey Stare At Wall]]
 > *Jae (monkey) say, "Hale, you, wake, sleep, sit, look, plank, why?"*
 ---
+*22/01/27 17:47 UTC-6*
+
 A modern phenomenon of paper and screens.
 
 It feels strange to me sometimes when I'm laying in bed staring at my phone, laptop, or some other digital screen or when I'm sitting down taking a long exam, staring at sheets of paper.

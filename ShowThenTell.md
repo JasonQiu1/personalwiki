@@ -2,6 +2,7 @@
 > *Jae screamed at Hale, "I wish I was never born so I wouldn't have even a single iota of a chance to ever meet you!"
 > Jae hated Hale.*
 ---
+*22/01/27 17:47 UTC-6*
 
 A common pattern I absolutely detest when reading books (particularly [[Webnovels]]).
 
